@@ -1,0 +1,8 @@
+
+
+<canvas class="img" type="webgl" id="img" ></canvas>
+<canvas bindtouchstart="bindtouchstart" bindtouchmove="bindtouchmove" bindtouchend="bindtouchend" bindtouchcancel="bindtouchend" type="webgl" id="myCanvas" class="canvas" ></canvas>
+<!-- <view class="text">
+    {{text}}
+</view> -->
+

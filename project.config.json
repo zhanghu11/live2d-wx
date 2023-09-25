@@ -1,0 +1,41 @@
+{
+    "description": "项目配置文件",
+    "miniprogramRoot": "miniprogram/",
+    "compileType": "miniprogram",
+    "setting": {
+        "useCompilerPlugins": [
+            "typescript",
+            "less"
+        ],
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "es6": true,
+        "enhance": true,
+        "minified": false,
+        "minifyWXSS": false,
+        "minifyWXML": false,
+        "ignoreUploadUnusedFiles": false,
+        "uglifyFileName": true,
+        "condition": false,
+        "coverView": false,
+        "postcss": false,
+        "showShadowRootInWxmlPanel": false,
+        "packNpmRelationList": []
+    },
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {},
+    "srcMiniprogramRoot": "miniprogram/",
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    },
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "appid": "wx31c51262fdb2cef7"
+}
