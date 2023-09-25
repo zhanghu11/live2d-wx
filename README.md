@@ -1,4 +1,4 @@
-移植live2d
-1 src1 如下复制完 全局查找Live2DCubismCore  import {Live2DCubismCore} from "./Core/live2dcubismcore"; core与src1版本需要一致
-2 改成微信小程序下载文件部分
-3 画布渲染修改
+live2d-wx可导入微信小程序开发者工具中直接使用。
+
+感兴趣的一起维护这个项目吧，加入qq群912010375
+
